@@ -7,7 +7,7 @@ public class sonanda : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        set_number();
     }
 
     // Update is called once per frame
